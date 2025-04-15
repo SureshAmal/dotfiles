@@ -1,0 +1,3489 @@
+ls
+clear
+ls
+dir
+clear
+cargo --version
+clear
+dir
+cd Pictures/wallpapers/
+ls
+clear
+ls
+la
+clear
+sudo dnf install exa
+clear
+exa
+cd ../
+exa
+exa ls
+exa -ls
+ls
+clear
+exa -l
+clear && exa -l
+clear and exa -l
+clear ; exa -l
+ls
+clear
+exa -abghHlis
+exa -abghHliS
+cd wallpapers/
+clear
+exa -abghHliS
+open beautiful-clouds-digital-art.jpg
+clear
+start
+clear
+start beautiful-clouds-digital-art.jpg
+yazi
+yazi -h
+clear
+yazi
+exit
+clear
+ls
+cd ..
+clear
+cd .config/
+mkdir waybar
+which waybar
+clear
+cd waybar/
+nvim config.json
+nvim config-river
+exit
+clear
+sudo systemctl enable --now polkit
+sudo dnf install ashell
+paru/yay -S ashell
+clear
+ls
+clear
+exa
+exa -abghHliS
+clear
+exit
+~/.config/hypr/select_wallpaper.sh
+hyprctl act wallpaper 
+sudo dnf install hyprpaper
+~/.config/hypr/select_wallpaper.sh
+hyprpaper
+sudo dnf remove hyprpaper
+sudo dnf install hyprpaper
+clear
+hyprpaper
+~/.config/hypr/select_wallpaper.sh
+hyprctl reload
+exit
+clear
+cd .config/hypr/
+clear
+l
+ll
+clear
+ll
+clear
+ls
+ll
+clear
+ls
+ls -l
+ls -l | dir
+ls | dir
+ls
+clear
+ls
+cd ~
+cd .config/ags/services/
+ll
+ls
+clear
+ls
+./screen_record.sh
+nvim screen_record.sh
+clear
+cd ~
+creal
+clear
+clear 
+exit
+nvim
+exit
+clear
+cd Downloads/
+ls
+cd jaimin/
+ls
+unzip FalduJaimin.zip
+ls
+clear
+exit
+clear
+nvim --help
+clear
+uptime
+users
+clear
+user
+users
+clear
+users --help
+clear
+exit
+cd Downloads/
+ls
+open `4th BX.pdf`
+clear
+start `4th BX.pdf`
+nvim
+exit
+clear
+ls
+clear
+cd kitty/
+ll
+ls
+clear
+vim kitty.conf
+exit
+ll
+all
+clear
+exa
+exa -abghHliS
+clear
+cd /run/media/suresh/D/codelang/Webprogramming/
+exa -abghHliS
+clear
+ls
+exa
+clear
+cd ..
+exa
+ls
+clear
+cd ~/.config/kitty/
+nvim kitty.conf
+exit
+exa
+cleat
+clear
+cd /run/media/suresh/D/codelang/Webprogramming/
+exa
+cd ..
+ls
+cd ~/.config/kitty/
+nvim kitty.conf
+exit
+exa
+ls
+clear
+cd /run/media/suresh/D/codelang/Webprogramming/
+cd ..
+ls
+clear
+cd ~/.config/kitty/
+clear
+exit
+nu
+exit
+nvim kitty.conf
+exit
+clear
+cd /share/nvim/lazy/blink.cmp/lua/blink/cmp/config/utils.lua
+cd ~/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/utils.lua
+cd home/suresh/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/utils.lua
+cd /home/suresh/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/utils.lua
+cd /home/suresh/share/nvim/lazy/blink.cmp/lua/blink/cmp/config
+cd /home/suresh/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/
+cd ~/.local/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/
+nvim utils.lua
+exit
+cd ~/.local/share/nvim/lazy/blink.cmp/lua/blink/cmp/config/
+cd ~/.config/nvim/lua/lazyvim/plugins/extras/coding/
+cd ~/.config/nvim/lua/lazyvim
+cd ~/.config/nvim/
+exa
+cd lua/
+exa
+cd plugins/
+exa
+ls
+flatpuck
+flatpack
+clear
+exit
+clear
+cd ~/.config/hypr/
+cd .cargo/
+ls
+cd bin/
+ls
+clear
+$HOME
+exit
+nvim hyprland.conf
+nvim
+exit
+clear
+nvim ~/.profile
+nvim ~/.config/hypr/hyprland.conf
+clear
+exit
+source ~/.profile
+nvim ~/.profile
+source ~/.profile
+nvim ~/.profile
+source ~/.profile
+nvim ~/.profile
+source ~/.profile
+nvim ~/.profile
+source ~/.profile
+clear
+nvim ~/.pam_environment
+exir
+exit
+clear
+cd Gitclones/
+gh repo clone saimoomedits/eww-widgets
+git clone https://github.com/saimoomedits/eww-widgets.git
+clear
+cd ~/.config/eww/
+ls
+rm eww.scss
+rm eww.yuck
+rm wallpaper
+ls
+clear
+mv ~/Gitclones/eww-widgets/ ~/.config/eww/
+ls
+clear
+cd eww-widgets/
+ls
+cd eww
+ls
+clear
+nvim leftbar_old_pls_dont_use/
+clear
+cd ..
+cp eww ../eww
+clear
+eww 
+eww daemon
+ls
+cd ..
+ls
+./launch_bar
+clear
+ls
+nivm launch_bar
+nvim launch_bar
+./launch_bar
+nvim launch_bar
+cat launch_bar
+clear
+ls
+./launch_bar
+cd /home/suresh/.local/bin/eww/
+which eww
+cd ~/.local/bin/
+ls
+clear
+ls
+cd ~/.config/eww/
+ls
+./launch_bar
+nvim launch_bar
+./launch_bar
+nvim launch_bar
+$HOME
+echo $HOME
+$HOME
+clear
+nvim launch_bar
+./launch_bar
+clear
+ls
+eww deomon
+eww 
+eww daemon
+./launch_bar
+clear
+ls
+clear
+ls
+./launch_bar
+clear
+cat launch_bar
+which eww<\n>
+nvim launch_bar
+./launch_bar
+clear
+git clone https://github.com/saimoomedits/eww-widgets.git
+clear
+ls
+cd bar
+ls
+nvim launch_bar
+./launch_ba
+.launch_ba
+launch_ba
+clear
+launch_bar
+./launch_bar
+nvim launch_bar
+./launch_bar
+nvim launch_bar
+nvim eww.yuck
+./launch_bar
+nvim eww.yuck
+./launch_bar
+nvim eww.yuck
+./launch_bar
+clear
+cd ..
+rm -rf eww
+ls
+clear
+cd ..
+cd Gitclones/
+git clone --depth=1 https://github.com/adi1090x/widgets.git
+ls
+cd widgets/
+ls
+fonts
+cd fonts/
+ls
+cp feather.ttf ~/.fonts/
+fc-cache -f -v
+ls
+cp iosevka-nerd-font.ttf ~/.fonts/
+fc-cache -f -v
+clear
+cd ..
+ls
+cd eww
+ls
+cd arin
+ls
+cd ..
+cd dashboard/
+ls
+clear
+cd ..
+cp eww ~/.config/
+cpdir eww ~/.config/
+cp eww ~/.config/
+clear
+cd ~/.config/eww/
+cd dashboard/
+ls
+./launch_dashboard
+clear
+cd ../
+./launch_dashboard
+clear
+nvim launch_dashboard
+./launch_dashboard
+cd dashboard/
+nvim eww.yuck
+clear
+cd ../
+clear
+cd ~
+cd .config/
+cd eww/
+ls
+clear
+cd Gitclones/
+git clone https://github.com/saimoomedits/eww-widgets.git
+cd ~/.config/eww/
+ls
+cd bar/
+nvim
+./launch_dashboard
+launch_dashboard
+clear
+ls
+./launch_bar
+which eww<\n>
+nvim
+./launch_bar
+nvim
+./launch_bar
+clear
+nvim
+./launch_bar
+clear
+cd ../
+rm -rf bar/
+ls
+clear
+exit
+cd ..
+cd .dotfiles_new/
+ls
+cd files/
+cd eww/
+ls
+clear
+ls
+cd scripts/
+ls
+yazi
+clear
+cd ..
+cd ~
+syncthing
+clear
+curl -s -L https://raw.githubusercontent.com/PoSayDone/.dotfiles_new/main/install.sh | bash
+ls
+clear
+cd backup/
+ls
+cd ~/.config/
+ls
+rm -rf nvim
+cd ~
+cd backup/
+ls
+cp nvim ~/.config/
+nvim
+clear
+cd .config/
+cd ~/.config/
+mkdir nvim
+cd nvim
+npm install tree-sitter-cli
+mv ~/.local/share/nvim ~/.local/share/nvim.bak<\n>mv ~/.local/state/nvim ~/.local/state/nvim.bak<\n>mv ~/.cache/nvim ~/.cache/nvim.bak
+git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim<\n>rm -rf ~/.config/nvim/.git<\n>nvim
+cd ../
+rm -rf nvim
+git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim<\n>rm -rf ~/.config/nvim/.git<\n>nvim
+rm -rf nvim
+nvim
+cd ~/.local/state/
+ls
+cd nvim
+ls
+rm -rf nvim
+yazi
+cd ~/.local/share/
+yazi
+nvim
+clear
+cd ../
+clear
+nvim
+rm -rf /home/suresh/.local/share/Trash/files/waybar
+rm -rf /home/suresh/.local/share/Trash/files/waybar.2
+ls /home/suresh/.local/share/Trash/files/waybar.2
+clear
+rm -rf /home/suresh/.config/wallust/templates/colors-waybar.css /home/suresh/.local/lib/python3.13/site-packages/pywal/templates/colors-waybar.css /home/suresh/.cache/wal/colors-waybar.css /home/suresh/Gitclones/Hyprland-Dots/config/wallust/templates/colors-waybar.css /home/suresh/Gitclones/Hyprland-Dots/config/rofi/config-waybar-layout.rasi /home/suresh/Gitclones/Hyprland-Dots/config/rofi/config-waybar-style.rasi /home/suresh/.local/state/nvim/sessions/%home%suresh%.config%waybar.vim /home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%config-river '/home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%configs%[TOP & BOT] SummitSplit' /home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%Modules /home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%ModulesCustom /home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%style.css '/home/suresh/.local/state/nvim/undo/%home%suresh%.config%waybar%style%[Black & White] Monochrome.css' /home/suresh/Gitclones/Hyprland-Dots/config/hypr/scripts/RefreshNoWaybar.sh /home/suresh/.local/share/Trash/info/waybar.2.trashinfo /home/suresh/.local/share/Trash/info/waybar.trashinfo /home/suresh/Gitclones/Hyprland-Dots/config/hypr/scripts/WaybarCava.sh /home/suresh/Gitclones/Hyprland-Dots/config/hypr/scripts/WaybarLayout.sh /home/suresh/Gitclones/Hyprland-Dots/config/hypr/scripts/WaybarStyles.sh
+clear
+rm -rf /home/suresh/.zcompdump-fedora-5.9 /home/suresh/.zcompdump-fedora-5.9.zwc /home/suresh/.zprofile /home/suresh/.zshenv /home/suresh/.zsh_history /home/suresh/.zshrc.omz-uninstalled-2024-12-13_00-02-21 /home/suresh/.zshrc-backup
+'/home/suresh/'"'"''
+nvim '/home/suresh/'"'"''
+vim /home/suresh/.xsettingsd
+rm -rf .dotfiles_new/
+vim /home/suresh/undefined.bak
+vim /home/suresh/info.json
+vim /home/suresh/.local/share/hyprland/lastVersion
+vim /home/suresh/.config/cava/config
+clear
+vim /home/suresh/.config/hypr/wallust/wallust-hyprland.conf
+rm /home/suresh/.config/hypr/wallust/wallust-hyprland.conf
+rm -rf /home/suresh/.config/hypr/wallust
+rm /home/suresh/.config/hypr/envhypr.sh
+vim /home/suresh/.config/hypr/hyprland.conf
+vim /home/suresh/.config/hypr/hyprpaper.conf
+yazi /home/suresh/.config/background
+rm -rm /home/suresh/.config/BraveSoftware
+rm -rf /home/suresh/.config/BraveSoftware
+rm -rf /home/suresh/.config/cava
+sudo dnf remove cava
+eww deamon
+eww -h
+eww daemon
+clear
+eww kill<\n>eww daemon<\n>eww open bar
+clear
+eww kill
+clear
+exit
+./ytui_music-linux-amd64
+clear
+ls
+ytui_music-linux-amd64
+open ytui_music-linux-amd64
+clear
+start ytui_music-linux-amd64
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+git clone git@github.com:sudipghimire533/ytui-music
+clear
+git clone git@github.com:sudipghimire533/ytui-music
+clear
+cargo install youtube-tui<\n>
+cargo install youtube-tui
+sudo dnf install lmpv
+clear
+nvim ~/.bashrc
+source ~/.bashrc
+nvim ~/.bashrc
+source ~/.bashrc
+nvim ~/.bashrc
+source ~/.bashrc
+clear
+vim ~/.bashrc
+source ~/.bashrc
+echo $PATH
+$echo.PATH
+$env.PATH
+sudo dnf install youtube-tui
+clear
+cargo install youtube-tui
+clear
+cargo install youtube-tui
+youtube-tui
+clear
+exit
+ls
+clear
+exa
+ls
+home
+exit
+clear
+exit
+cls
+clear
+exit
+cls
+clear
+echo "$(which nu)" | sudo tee -a /etc/shells
+chsh -s $(which nu)
+which nu
+cls
+exit
+clear
+exit
+clear
+nvim
+clear
+ls
+cls
+clear
+ls
+cargo
+deno
+clear
+btop
+cls
+clear
+python `first 01.py`
+clear
+exit
+tty-clock
+cd Downloads/
+ls
+cd Gitclones/
+git clone https://github.com/xorg62/tty-clock.git
+cd tty-clock/
+make
+make install
+sudo make install
+clear
+tty-clock
+clear
+ags -q
+clear
+tty-clock
+clear
+cls
+clear
+exir
+exit
+clear
+exit
+clear
+exit
+config nu
+nvim ~/.config/foot/
+cleaar
+clear
+cd /run/media/suresh/D/codelang/Webprogramming/
+cd /run/media/suresh/D/codelang/Web
+cd `Web Learning/`
+cls
+clear
+claar
+clear
+coreutil
+coreutils
+cargo install coreutils
+clear
+config nu
+exit
+config nu
+source nu
+clear
+z
+clear
+nvim .zshrc
+config nu
+exit
+nu
+exit
+zoxide
+which zoxide
+config nu
+exit
+config nu
+exit
+config nu
+exit
+clear
+ls
+ls -a
+clear
+config nu
+z python
+cd /run/media/suresh/D/codelang/python
+cd | z python
+z 
+clear
+suresh
+clear
+nvim .zshrc
+config nu
+exit
+nu
+exit
+clear
+z python
+cd | z python
+cd z python
+cd z | python
+cd < z  python
+z python | cd
+codelang
+cd Web/
+clear
+cd `Web programming Sem4/`
+clear
+..
+cd `Web Learning/`
+cd php/
+clear
+cls
+clear
+z python & cd
+z python | cd 
+clear
+ls
+clear
+ls
+clear
+exit
+nu 
+exit
+nu
+clear
+ls
+lsa
+ls -a
+clear
+ls
+nvim starship.toml
+exi
+exit
+clear
+z python
+zi
+clear
+config nu
+exit
+clear
+z python
+clear
+zi
+clear
+cls
+config nu
+exit
+clear
+z python
+config nu
+exit
+clear
+z 
+clear
+config nu
+exit
+z 
+clear
+z python
+clear
+zi
+clear
+z php
+clear
+tmux
+clear
+exit
+config nu
+nu
+clear
+config nu
+$nu.config-path
+cd .config/nushell/
+config nu
+nvim config.nu
+exit
+config nu
+clear
+ls
+bat
+exa
+clear
+exa -a
+^exa 
+clear
+nvim
+starship preset tokyo-night -o ~/.config/starship.toml
+clear
+nvim .config/starship.toml
+clear
+z php
+clear
+cls
+deno
+clear
+z weather
+clear
+ls
+clear
+nvim .zshrc
+home
+config nu
+$nu.config-path
+clear
+deno
+clear
+deno -h
+clear
+deno
+clear
+pnpm
+npm -h
+clear
+bun -h
+clear
+cargo -h
+clear
+php -h
+clear
+nvim .zshrc
+exit
+nvim /home/suresh/.config/nushell/config.nu
+exit
+clear
+tmux
+source .tmux.conf
+clear
+exit
+exit
+tmux
+z php
+clear
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+starship preset tokyo-night -o ~/.config/starship.toml
+clear
+config nu
+nvim .config/starship.toml
+clear
+cleae
+cls
+nvim .config/starship.toml
+cls
+clear
+z php
+clear
+z weather
+clear
+z php
+clear
+z rust
+codelang
+ls
+clear
+config nu
+nvim ~/.config/starship.toml
+clear
+config nu
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"<\n>php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"<\n>php composer-setup.php<\n>php -r "unlink('composer-setup.php');"
+clear
+cls
+alias
+history
+clear
+exit
+clear
+git clone https://github.com/NvChad/starter ~/.config/NvChad
+clear
+cd .config/
+ls
+eza
+clear
+ls
+fzf
+clear
+..
+cd .config/
+ls NvChad/
+clear
+nvim .config/nushell/config.nu
+exit
+nvim-astro
+NVIM_APPNAME=AstroNvim
+clear
+nvim-chad
+config nu
+exit
+config nu
+cd .config/nushell/
+nvim config.nu
+exit
+NVIM_APPNAME=AstroNvim nvim
+clear
+cls
+NVIM_APPNAME=NvChad nvim
+cls
+nvim .zshrc
+clear
+z rust
+z python
+clear
+..
+ls
+mkdir android-app
+ls
+z android-app/
+clear
+mkdir lynx-app
+z lynx-app/
+cls
+pnpm create rspeedy@latest
+cd lynx-firs-look/
+pnpm install
+pnpm run dev
+codelang
+z android-app/lynx-app/lynx-firs-look/
+cls
+clear
+pnpm run dev
+clear
+pnpm run dev
+clear
+pnpm run dev
+clear
+pnpm run dev
+clear
+..
+nvim
+cd lynx-app/
+..
+cls
+pnpm -v 
+node -v
+clear
+rm -rf lynx-firs-look/
+z Download
+cd Gitclones/
+git clone git@github.com:lynx-family/lynx-devtool.git --depth=1<\n>cd lynx-devtool
+clear
+z lynx
+bun create rspeedy@latest
+cd lynx-first-app/
+clear
+bun install
+clear
+ls
+..
+clear
+rm -rf lynx-first-app/
+ls
+ls
+clear
+cls
+npm create rspeedy@latest
+lear
+cls
+pnpm create rspeedy@latest
+cd lynx-01-app/
+pnpm install
+clear
+clear
+pnpm install
+..
+rm -rf lynx-first-app/
+clear
+ls
+rm -rf lynx-01-app/
+clear
+bun create rspeedy@latest
+deno run -A npm:create rspeedy@latest
+clear
+bun create rspeedy@latest
+cd lynx-first-app/
+ls
+clear
+cd lynx-first-app/
+ls
+ls -a
+eza
+clear
+eza -a
+clear
+cls
+bun install
+clear
+clear
+bun run dev
+nvim --clean
+clear
+bun run dev
+clear
+bun run dev
+cleaar
+cls
+bun run dev
+clscls
+cls
+nvim
+bun run dev
+bun build
+bun build -h
+bun build --compile
+bun compile
+clear
+bun build src/index.js --outdir=dist<\n>
+bun build src/index.js<\n>
+bun install
+clear
+bun build src/index.js<\n>
+flatpack list
+flatpak list
+cd .config/hypr
+hyprctl reload
+hyprctl layers
+hyprctl clients<\n>
+clear
+exit
+hyprctl clients<\n>
+clear
+hyprctl clients<\n>
+clear
+nvim
+exit
+cd .config/hypr
+btop
+cls
+rofi
+rofi -show window
+hyprctl opacity 1
+hyprctl -g
+hyprctl decorations 
+hyprctl --decorations 
+hyprctl decorations 
+hyprctl decorations opacity
+clear
+sudo /usr
+sudo cd /usr
+cd /usr/
+cd lib
+cd systemd/
+ls
+fzf
+bat zram-generator.conf
+btop
+clear
+btop
+sudo nvim zramctl
+fzf
+sudo nvim zram-generator.conf
+sudo nano /etc/systemd/zram-generator.conf<\n>
+ls /etc/systemd/zram-generator.conf<\n>
+clear
+systemctl restart systemd-zram-setup@zram0.service<\n>
+cls
+sudo nvim zram-generator.conf<\n>
+systemctl restart systemd-zram-setup@zram0.service
+nvim 
+systemctl status systemd-zram-setup@zram0.service
+man zeam
+man zram
+clrar
+clear
+tldr zram
+tldr --update
+tldr zram
+systemctl restart systemd-zram-setup@zram0.service<\n>
+systemctl status systemd-zram-setup@zram0.service<\n>
+swapon --summary
+clear
+sudo swapoff /dev/zram0<\n>sudo systemctl restart systemd-zram-setup@zram0.service
+sudo systemctl restart systemd-zram-setup@zram0.service
+clear
+zramctl
+sudo swapon /dev/zram0
+sudo systemctl restart systemd-zram-setup@zram0.service<\n>
+cls
+cd /usr/lib/systemd/
+nvim zram-generator.conf
+sudo nvim zram-generator.conf<\n>
+cls
+sudo systemctl daemon-reexec<\n>sudo systemctl restart systemd-zram-setup@zram0.service
+sudo systemctl daemon-reexec<\n>sudo systemctl restart systemd-zram-setup@zram0.service<\n>
+wikiman
+cls
+systemctl status systemd-zram-setup@zram0.service
+cls
+systemctl status systemd-zram-setup@zram0.service
+cls
+systemctl status systemd-zram-setup@zram0.service
+cd /dev/
+sudo vim zram
+cls
+systemctl status systemd-zram-setup@zram0.service
+sudo nvim zram0.
+fzf
+sudo nvim zram0
+sudo cd zramctl 
+sudo nvim zramctl 
+cls
+sudo swapon /dev/zram0<\n>
+ls
+sudo nvim zram0
+swapon --summary
+zramctl
+..
+cd /dev/
+..
+cd usr/lib/systemd/
+ls
+sudo nvim zram-generator.conf
+cls
+min($RAM_SIZE_MB * 1.5, 6144)
+cls
+cd .config/ags/
+nvim-astro
+nvim-astro nvim
+nvim-astro | nvim
+ags -q
+ags
+NVIM_APPNAME=AstroNvim nvim
+cls
+exit
+cd .config/ags/
+flatpak list
+cls
+flatpak list
+nvim
+hyprpm update
+z gitclone
+..
+cd Documents/
+touch end4fedora.sh
+nvim end4fedora.sh
+chmod +x end4fedora.sh
+./end4fedora.sh
+vim end4fedora.sh
+z atmiya\
+z atmiya
+z sem4
+z ebm
+cls
+ls
+ls -a
+z atmiya
+cd sem4/
+z EBM/
+cls
+yazi
+cls
+config nu
+z EBM/
+zi
+yazi
+cls
+zi
+yazi
+z atmiya
+cd sem4
+cd EBM/
+nvim unit4.md
+./end4fedora.sh
+nvim unit4.md
+nvim end4fedora.sh
+./end4fedora.sh
+clear
+cls
+clear
+z atmiya
+zi
+codelang
+mkdir assebly
+rm assebly/
+mkdir assembly
+cd assembly/
+nvim hello.s
+nasm -f elf64 -o hello.o hello.s
+sudo dnf install nasm\
+sudo dnf install nasm
+nasm -f elf64 -o hello.o hello.s
+ld -o hello hello.o
+./hello
+clear
+nvim hello.o
+sudo dnf install simullide
+cls
+sudo dnf install simulide
+clear
+cd Downloads/
+cd SimulIDE_1.1.0-SR1_Lin64/
+ls
+./simulide
+cls
+clear
+w3m google.com
+cls
+vim .bashrc
+sudo dnf install qtwayland5
+clear
+nvim .zshrc
+source .zshrc
+cd Downloads/
+cd ktechlab-0.50.0/
+ls
+./INSTALL
+clear
+make
+clear
+ls
+./run-simple.sh
+chmod +x run-simple.sh
+./run-simple.sh
+clear
+./INSTALL
+clear
+cd Documents/
+mkdir proteus
+cd Downloads/
+ls
+cd SimulIDE_1.1.0-SR1_Lin64/
+ls
+./simulide
+cp simulide ~/.local/bin/simulide
+clear
+cls
+wine- winepath -u C:\\users\\suresh\\Desktop (Working directory : /home/suresh/.PlayOnLinux/wineprefix/proteus8/drive_c)
+clear
+wine -v
+clear
+sudo dnf install wine
+cls
+z atmiya
+cd sem4/
+cd EBM/
+nvim unit2.md
+hyprctl clients<\n>\
+cd .config/hypr/
+nvim
+clear
+pwd
+clear
+ags -q
+ags
+nvim .config/ags
+cls
+ags -q
+ags
+cd .config/ags
+fzf
+nvim modules/.miscutils/icons.js
+clear
+nvim
+cls
+tty-clock
+clear
+zathura
+clear
+pipe
+sudo dnf install opipe
+clear
+tty-clock
+clear
+time
+clear
+date
+date time
+clea
+clear
+date 
+now
+clear
+date -now
+clear
+date -n
+cleaar
+cles
+cls
+date
+date now
+clear
+date now
+clear
+tty-clock
+time
+time -h
+time --help
+clear
+t
+clear
+sudo dnf install pipe
+clear
+sudo dnf install pipes
+cls
+config nu
+t
+clear
+t
+t
+clear
+cls
+z atmiya
+cd sem4/
+cls
+tree
+cls
+~
+bat .zshrc
+clear
+bat .zshrc
+cls
+exit
+nvim
+cd mydotfiles/
+..
+fzf
+cls
+fzf
+clear
+btop
+clear
+t
+exit
+hyprctl clients<\n>\
+cd .config/hypr/
+cava
+nvim
+t
+cls
+clear
+cd Pictures/
+cls
+cava
+cls
+t
+cls
+cava
+cls
+pipes
+clear
+exit
+cd /usr/bin/
+ls thorium-browser
+./thorium-browser
+touch ~/.config/thorium
+./thorium-browser
+touch ~/.config/thorium/
+mkdir ~/.config/thorium
+cd ~/.config/thorium
+cd ~/.config
+ls thorium
+rm -rf thorium
+mkdir thorium
+ls
+cls
+ls thorium/
+clear
+cd /usr/bin/
+./thorium-browser
+cd ~/.config/thorium/
+ls
+cls
+cd /usr/bin/
+./thorium-browser
+cd ~/.config/thorium/
+mkdir "Crash Reports"
+cd `Crash Reports/`
+..
+ls
+mv `Crash Reports/` Crash Reports
+mv `Crash Reports/` ./Crash Reports
+cls
+clear
+ags -q
+btop
+cls
+t
+cls
+ags -q 
+cls
+cd .config/ags
+cls
+cd .config/hypr/
+ags -q
+ags
+ags -q
+ags
+ags -q
+nvim
+cls
+hyprctl clients<\n>\
+hyprctl clients
+cls
+hyprctl clients
+clear
+hyprctl -h
+hyprctl layers
+cls
+hyprctl -h
+hyprctl devices
+hyprctl decorations opacity
+hyprctl decorations 
+hyprctl decorations blur
+hyprctl decorations ags
+clear
+hyprctl -h
+hyprctl notify "hello"
+hyprctl notify "hello" " suresh"
+hyprctl notify "hello" "suresh" -t 5000
+clear
+hyprctl notify "hello" "suresh" "helo"
+cls
+hyprctl -h
+clear
+ags -h
+ags -b
+cls
+ags -h
+ags -i
+cls
+ags -h
+ags --clear-cache
+ags -q
+ags --clear-cache
+clear
+nvim
+cd ~/.config/ags
+ags
+clear
+ags -h
+cd .chace
+cd .cache
+cd ags/
+ls
+cd user/
+ls
+cls
+cd generated/
+ls
+ags
+clear
+cd .config/
+ags -q
+clear
+cd Downloads/
+cd Gitclones/
+ls
+cls
+t=~/.cache/dots-hyprland   # Let's not trash your home folder<\n>git clone https://github.com/end-4/dots-hyprland.git "$t" --filter=blob:none<\n>cd "$t"
+ags -q
+sudo usermod -aG video,input "$(whoami)"
+ags 
+clear
+cd .cache/dots-hyprland/
+ls
+cd .config/
+ls
+ags -q
+ags
+clear
+hyprctl reload
+clear
+sudo restart
+clear
+sudo reboot
+clear
+cd Documents/
+sudo dnf install python-devel
+ls
+clear
+nvim end4fedora.sh
+clear
+cd .config/hypr/
+clear
+cd .config/ags/
+cls
+ags -q
+pip install materialyoucolor
+clear
+bat ~/.cache/ags/user/generated/style.css
+cd .cache/ags/user/generated/
+;s
+ls
+clear
+ls
+cd hypr/
+ls
+cd hyprland/
+ls
+colors.cong
+colors.conf
+bat colors.conf
+cls
+bat colors.conf
+clear
+ags
+cd .config/hypr/
+~/.config/ags/scripts/color_generation/switchwall.sh
+clear
+nvim
+clear
+..
+cd ags/
+cd Pictures/
+ls
+~/.config/ags/scripts/color_generation/switchwall.sh
+~/.config/ags/scripts/kvantum/materialQT.sh
+clear
+~/.config/ags/scripts/kvantum/materialQT.sh
+clear
+~/.config/ags/scripts/color_generation/switchwall.sh
+cd .cache/ags/
+cd ~/.cache/dots-hyprland/
+ls
+cd .config/
+ls
+cls
+ls
+mv Kvantum ~/.config/
+clear
+~/.config/ags/scripts/color_generation/switchwall.sh
+clear
+~/.config/ags/scripts/color_generation/switchwall.sh
+ls /home/suresh/.config/ags/scripts/kvantum/changeAdwColors.py
+ls /home/suresh/.config/ags/scripts/kvantum/
+ls /home/suresh/.config/ags/scripts/
+~/.config/ags/scripts/color_generation/switchwall.sh
+cls
+hyprctl reload
+cls
+nvim
+cls
+ags
+ags -q
+ags
+clear
+~/.config/ags/scripts/color_generation/switchwall.sh
+cls
+clear
+cls
+ls
+clea
+clear
+chsh -s $(which zsh)
+clear
+ls
+la
+clear
+ls
+la
+clear
+la
+echo $shell
+clear
+chsh -s $(which bash)
+sudo chsh -s $(which bash)
+exec zsh && sudo chsh -s $(which bash) $USER
+exec zsh | sudo chsh -s $(which bash) $USER
+cls
+la
+clear
+cls
+clear
+which zsh
+la
+clear
+ags -q
+ags
+clear
+echo $SHELL
+la
+clear
+getent passwd $USER
+clear
+cls
+la
+clear
+ls
+clear
+nvim .config/foot
+:q
+exit
+nvim .config/foot
+clear
+cd .config/ags
+clear
+ags -q
+ags
+cls
+ags
+ags -1
+ags -q
+ags
+clear
+nvim
+cd ~/.cache/dots-hyprland/
+cd ~/.cache/ags/user/generated/
+ls
+cd hypr/
+ls
+clear
+cd .config/hypr/
+nvim 
+nvim hyprlock.conf
+cls
+config nu
+clear
+z gitclone
+git clone https://github.com/dharmx/walls.git
+cls
+ls
+git clone https://github.com/dharmx/walls.git
+cls
+git clone https://github.com/dharmx/walls.git
+cls
+git clone https://github.com/dharmx/walls.git
+cls
+git clone https://github.com/dharmx/walls.git
+cls
+git clone depth 1 -filter=blob:none --sparse  https://github.com/dharmx/walls.git
+git clone --depth 1 --filter=blob:none --sparse  https://github.com/dharmx/walls.git
+cd walls/
+ls
+git sparse-checkout set animated
+ls
+clear
+mv animated/ ~/Pictures/wallpapers/
+cls
+clear
+ls
+clear
+nvim .config/foot
+clear
+cd .config
+clear
+la
+clear
+la
+clear
+cd Documents/
+clear
+cls
+z python
+zi
+z Web
+z codelang
+cls
+z weather
+cls
+la
+ls
+clear
+exe zsh
+la
+btop
+clear
+nf
+ff
+cls
+nf
+echo $SHELL
+clear
+echo SHELL
+echo $SHELL
+$echo.SHELL
+echo $env.SHELL
+clear
+cls
+git status --short --branch --renames
+nvim .zshrc
+clea
+hyprctl clients
+cls
+cd Downloads/
+clear
+z atmiya
+clear
+home
+clear
+hyprpm update
+hyprpm list
+hyprpm update
+cls
+pypm list
+hyprpm lis
+hyprpm list
+cls
+hyprpm enable hyprbars
+cpio
+cpio -h
+cpio --help
+cls
+z gitclone
+cls
+git clone https://github.com/hyprwm/Hyprland
+cd Hyprland/
+cls
+sudo make installheaders
+ls
+bat CMakeLists.txt
+sudo make
+sudo make installheaders
+sudo make all
+sudo dnf install udis86 aquamarine
+cls
+ags run-js 'lock.lock()'
+clear
+exit
+git config user.name
+git config user
+git config user.password
+sudo git config user.pass
+cls
+git config user.password
+git config user.name
+cls
+git config user.email
+cls
+z weather
+git config 
+git config --local 
+git config --list
+cls
+z weather
+cls
+z python
+cls
+git status
+git ass .
+cls
+git ad .
+git add .
+cls
+git status
+clear
+lazy-git
+lazygit
+cat ex1.py
+lazygit
+cat ex1.py
+cls
+lazygit
+cat ex1.py
+cls
+lazygit
+clear
+python
+cls
+z python
+ls
+git status
+clear
+cd classroomsem4/
+cd turtle/
+python Clock.py
+clear
+python Clock.py
+cls
+python Clock.py
+cls
+python Clock.py
+cls
+sudo dnf install default-jre
+cls
+sudo yum install java-11-openjdk
+sudo update-alternatives --config java
+cd Downloads/
+cd `minecraft Tlancher/`
+ls
+cd TLauncher.v14/
+chmod +x TLauncher.jar
+ls -a
+clear
+sudo java -jar TLauncher.jar
+cls
+mov-cli
+sudo update-alternatives --config java
+clear
+sudo yum install mov-cli
+~/.config/ags/scripts/color_generation/switchwall.sh
+pip install mov-cli -U
+clear
+mov-cli -S youtube
+clear
+mov-cli -s youtube one piece
+pip install lxml
+mov-cli -s youtube
+mov-cli -s youtube one piece
+youtube-tui
+cls
+pip install mov-cli-youtube
+mov-cli -e
+mov-cli -s youtube one piece
+cls
+cd .config/hypr/
+hyprctl clients
+ffmpeg
+clear
+cd Downloads/
+ls
+ffmpeg -i forest-sunset.1920x1080.mp4
+ffmpeg -i forest-sunset.1920x1080.mp4 forest-sunset.gif
+cls
+ls
+cd Downloads/
+cls
+cd Downloads/
+ls
+ffmpeg -i rengoku-autumn.1920x1080.mp4 rengoku.gif
+cls
+cd .config/hypr/
+avr-gcc -v
+sudo dnf install avr-gcc avr-binutils avr-libc avrdude
+codelang
+cd `c language/`
+mkdir avr projects
+rm -rd avr projects/
+rm -rf avr projects/
+ls
+mkdir Avr-Projects
+cd Avr-Projects/
+mkdir avr_first
+cd avr_first/
+touch main.c Makefile
+nvim main.c
+nvim Makefile
+make MCU=atmega32
+nvim main.c
+make MCU=atmega32
+ls
+clear
+ls
+clear
+simulide
+cd /usr/local/share/
+ls
+cls
+simulide
+cd Downloads/
+cd SimulIDE_1.1.0-SR1_Lin64/
+ls
+./simulide
+cd `Apps images/`
+cd SimulIDE_1.1.0-SR1_Lin64/
+./simulide
+/home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+foot exec zsh & /home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+foot
+foot exec zsh | /home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+foot exec zsh & /home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+/home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+sudo dnf install ccls
+clear
+sudo dnf install bear
+clear
+codelang
+cd `c language/`
+cd Avr-Projects/avr_first/
+bear -- make
+clear
+ls
+make MCU=atmega32
+cls
+make MCU=atmega32
+cls
+make MCU=atmega32
+clear
+make
+cls
+/home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+hyprctl clients
+z AI
+cls
+jupyter-lab
+cls
+/home/suresh/Apps\ images/SimulIDE_1.1.0-SR1_Lin64/simulide
+z c language
+cd Avr-Projects/avr_first/
+..
+cd avr_leds/
+make
+cls
+cd Downloads/
+z c language
+cd Avr-Projects/avr_first/
+..
+cd avr_de/
+brew make
+w3m google.com
+cls
+hyprpm update
+sudo dnf update all
+sudo dnf install udis
+cls
+hyprpm update
+cls
+history
+history | fzf
+cd Pictures/
+ls
+mkdir WALLS
+cd WALLS/
+git clone https://github.com/dharmx/walls.git
+cls
+cd walls/
+ls
+rm -rf .git/
+rm -rf .github/
+ls
+clear
+cd Pictures/
+cls
+cd WALLS/
+cd walls/
+ls
+ags -q
+sudo dnf update
+cls
+nvim
+flatpak install flathub com.usebottles.bottles
+find ~/.var/app/com.usebottles.bottles/data/bottles/ -name "Proteus.exe"
+flatpack -h
+cd .config/foot
+nvim foot.ini
+cls
+..
+bash
+cls
+exit
+cla
+clear
+which nu
+lsa
+cls
+nvvim
+nvim
+sdk install kotlin
+kotlin
+cls
+nvim .config/starship.toml
+exit
+dnf -h
+cls
+snap list
+snap -h
+snap remove figma-linux whatsie 
+sudo dnf uninstall kicad
+sudo dnf remove kicad
+cd .PlayOnLinux/
+cd 
+rm -rf .PlayOnLinux/
+config nu
+exit
+cls
+cala
+cla
+cls
+sudo dnf install deno
+curl -fsSL https://deno.land/install.sh | sh<\n>
+cls
+deno
+deno -v
+cls
+curl -s "https://get.sdkman.io" | bash
+sdk install kotlin
+zsh
+bash
+kotlin
+cls
+kotlin
+cls
+nvim-astro
+bash
+con
+config nu
+cls
+yazi
+cls
+exit
+cls
+cargo install yazi
+cargo binstall yazi
+cargo -h
+rustc
+cls
+cargo -h
+cargo --list
+sudo dnf install zoxide
+dnf copr enable lihaohong/yazi<\n>dnf install yazi
+bash
+cls
+cla
+sudo dnf copr enable lihaohong/yazi<\n>sudo dnf install yazi
+yazi
+cls
+git clone https://github.com/EisregenHaha/fedora-hyprland.git
+cls
+cd fedora-hyprland/
+chmod +x install.sh
+chmod +x fonts.sh
+./install.sh
+./fonts.sh
+clear
+cls
+codelang
+cls
+..
+cd Backup/
+cls
+ls
+cd config/
+nvim
+cd ../ags/
+nvim --clean
+cls
+nvim
+cls
+cd .config/kitty
+nvim kitty.conf
+nvim
+exit
+sudo dnf install hyprshot
+cl
+cls
+cd Pictures/
+yazi
+cls
+hyprshot -h
+hyprshot -m window
+cls
+hyprshot -h
+cls
+nvim .config/hypr/hyprland/keybinds.conf
+cls
+cl
+cls
+fastfetch
+sudo dnf install fastfetch
+fastfetch
+sudo dnf install neofetch
+cls
+sudo dnf install neofetch
+fastfetch
+ff
+cls
+nf
+ff
+cls
+deno
+cls
+lsblk
+sudo mount sda1
+sudo mount sda sda1
+cls
+lsblk
+sudo mount /dev/sda1 /mnt/sda1<\n>sudo mount /dev/sda2 /mnt/sda2
+sudo mkdir /mnt/sda1 /mnt/sda2
+sudo mount /dev/sda1 /mnt/sda1<\n>sudo mount /dev/sda2 /mnt/sda2
+cls
+sudo mkdir /mnt/D /mnt/E
+sudo mount /dev/sda1 /mnt/D<\n>sudo mount /dev/sda2 /mnt/E
+sudo umount /mnt/E
+sudo umount /mnt/D
+cls
+cd /mnt/
+ls
+rm D
+sudo rm D
+sudo rmdir  D
+sudo rmdir  E
+sudo rmdir  sda1
+sudo rmdir  sda2
+ls
+cls
+sudo Nautilus
+sudo nautilus
+nautilus admin:/
+sudo nautilus admin:/
+sudo nautilus
+cls
+btop
+cd .config/hypr/
+nvim
+sudo dnf install hyprpolkitagent
+nvim
+flatpack list
+flatpac list
+flatpak list
+flatpak uninstall io.github.nate_xyz.Resonance
+cls
+btop
+cls
+nvim
+cls
+nvim
+cls
+sudo dnf install php
+nvim
+pip install ipykernel
+cls
+fish
+exit
+nvim
+btop
+cargo --list
+cargo check
+cls
+flatpak list
+cls
+snap list
+cls
+dnf -h
+dnf ls
+dnf ls | fzf
+cls
+btop
+cls
+nvim
+cls
+w3m google.com
+sudo dnf install w3m
+cls
+w3m google.com
+cargo install typst-cli
+cls
+typst -h
+cls
+nvim
+cls
+ifconfig
+w3m
+w3m google.com
+sudo dnf install libayatana-appindicator libappindicator3
+sudo dnf install libayatana-appindicator libappindicator
+sudo dnf install libappindicator-gtk3
+cls
+sudo dnf install r-quick-share-${VERSION}.rpm
+cd Downloads/
+cls
+ls
+cls
+ld
+ls
+sudo dnf install r-quick-share-main_v0.11.5_glibc-2.39_1-x86_64.rpm
+cls
+z php
+zoxide
+cls
+config nu
+source nu
+source
+cls
+z
+z php
+cls
+codelang
+z Web/
+z `Web Learning/`
+z php/
+cls
+nvim
+php -S localhost:8000
+cls
+z php
+php -S localhost:8000
+cls
+sudo dnf install mysql
+cls
+sudo service mysql start
+cls
+sudo systemctl start mysql
+cls
+mysql
+cls
+mysql -u root -p
+cd Downloads/
+cls
+ls
+nvim
+chmod +x xampp-linux-x64-8.2.12-0-installer.run
+./xampp-linux-x64-8.2.12-0-installer.run
+sudo ./xampp-linux-x64-8.2.12-0-installer.run
+cls
+cd /opt/lampp/
+cls
+lampp -h
+cls
+ls
+./manager-linux-x64.run
+cls
+ls
+sudo ./manager-linux-x64.run
+cls
+manager-linux-x64.run
+./manager-linux-x64.run
+chmod +x ./manager-linux-x64.run
+sudo chmod +x ./manager-linux-x64.run
+./manager-linux-x64.run
+sudo ./manager-linux-x64.run
+sudo dnf install sudo /opt/lampp/manager-linux-x64.run
+sudo dnf install httpd
+cls
+which httpd
+cd /usr/sbin/
+sudo cp http /opt/lampp/bin/
+sudo cp httpd /opt/lampp/bin/
+cls
+sudo dnf install libxcrypt
+sudo find / -name libcrypt.so.1
+sudo find / -name libcrypt.so*
+cls
+sudo cd /opt/lampp/
+cls
+/opt/lampp/
+cls
+sudo nvim
+locate libcrypt.so.1
+cd /usr/lib/
+ls
+fzf
+sudo dnf install libxcrypt
+cls
+which libxcrypt
+which libxcrypt.so.1
+cls
+sudo dnf install libxcrypt-compat
+cls
+cd /opt/lampp/
+cls
+sudo ./manager-linux-x64.run
+ls
+cd apache2/conf/
+nvim
+sudo vim /opt/lampp/etc/httpd.conf
+..
+nvim
+sudo nvim
+sudo apachectl -S
+sudo apachectl -h
+apachectl 
+sudo apachectl 
+cd htdocs/
+sudo apachectl -S
+cls
+z php
+sudo apachectl -S
+apachectl -S
+cls
+apachectl help
+apachectl --help
+apachectl 
+cls
+pip install pynvim
+sudo dnf install cairosvg python3-plotly kaleido python3-nbformat python3-pillow python3-requests python3-websocket-client
+pip install jupyter_client
+pip install cairosvg pnglatex plotly kaleido pyperclip nbformat pillow requests websocket-client<\n>
+sudo dnf install cairo-devel texlive-plain-generic python3-pillow python3-requests python3-websocket-client
+pip install kaleido<\n>
+cls
+codelang
+ls
+mkdir kotlin
+codelang
+cls
+z kotlin/
+cls
+gradle build
+cls
+c;s
+cls
+codelang
+rm -rf kotlin/
+cls
+ls
+cls
+mkdir kotlin
+cd kotlin/
+mkdir kotlin_first_project
+cd kotlin_first_project/
+gradle init
+sudo dnf install gradle
+nvim
+cls
+nvim
+which java<\n>
+which gradlw
+which gradle
+config nu
+source config
+source ~/.config/nushell/config.nu<\n>
+source ~/.config/nushell/config.nu
+config nu
+source ~/.config/nushell/config.nu
+cls
+gradle
+z kotlin/
+cls
+gradle run
+kotlin
+cls
+gradle run
+cls
+gradle run
+..
+cls
+cd kotlin_learn/
+gradle run
+cls
+..
+cls
+cd kotlin_learn/
+cls
+codelang
+..
+cd ~/Downloads/
+cls
+yazi
+sudo dnf install zathure
+sudo dnf install zathura
+sudo dnf remove zathure
+cls
+sudo dnf remove zathure
+sudo dnf remove zathura
+cla
+cls
+cd .config/
+cd ~/.config/zathura/
+sudo dnf install zathura
+sudo dnf install zathura-pdf-poppler
+cls
+z kotlin/
+cls
+z kotlin/
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+cls
+gradle run
+nvim
+cls
+nvim
+which kotlin-language-server<\n>kotlin-language-server --version
+which kotlin-language-server
+mkdir -p ~/kotlin-project<\n>cd ~/kotlin-project<\n>gradle init --type kotlin-application
+mkdir ~/kotlin-project<\n>cd ~/kotlin-project<\n>gradle init --type kotlin-application
+cls
+z kotlin/
+nvim
+z kotlin/
+nvim
+cd .config/foot
+nvim
+cls
+nvim
+bash
+cls
+z kotlin/
+sudo dnf update all
+cls
+sudo dnf update
+cls
+curl -f https://zed.dev/install.sh | sh
+nvim
+cls
+z kotlin/
+cls
+nvim
+cls
+nvim
+z kotlin/
+cls
+z kotlin
+gradle run
+cls
+z kotlin
+cls
+..
+mkdir kotlin_workshop
+cd kotlin_workshop/
+cls
+kotlinc Hello.kt -include-runtime -d Hello.jar
+cls
+kotlinc Hello.kt -include-runtime -d Hello.jar
+java jar Hello.jar
+java -jar Hello.jar
+cls
+z kotlin
+gradle run
+nvim
+cls
+z kotlin
+cls
+gradle run
+cls
+z kotlin
+..
+cd kotlin_workshop/
+sudo dnf install lazy-git
+git config --global user.name "SureshAmal"<\n>git config --global user.email "SureshAmbechada@proton.me"
+cls
+sudo dnf copr enable atim/lazygit -y<\n>sudo dnf install lazygit
+z weather
+codelang
+z Web/
+z `Web project/`
+z `Web apps/`
+z WeatherApp/
+cls
+exa -tree
+exa --tree
+cls
+exa --t
+cls
+exa --tree
+cls
+ls
+cd .git/
+cls
+..
+cls
+cd .git/
+exa --tree
+cls
+..
+lazygit
+mv .git/ backupgit
+ls
+cd backupgit/
+ls
+cls
+..
+lazygit
+vim .gitignore
+lazygit
+ls
+rm -rf send/
+lazygit
+yazi
+cls
+lazygit
+vim .gitignore
+lazygit
+cls
+curl -fsSL https://christitus.com/linux | sh
+bash
+cls
+bash
+git push -u origin master
+z WeatherApp/
+..
+z WeatherApp/
+lazygit
+cls
+..
+z WeatherApp/
+..
+cls
+z weather
+cls
+git push -u origin master
+lazygit
+sudo lazygit
+git push -u origin master
+git remote -v<\n>
+cls
+git push -u origin master
+cls
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+cls
+ssh-keygen -t rsa -b 4096 -C "SureshAmbechada@proton.me"
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:SureshAmal/WeatherApp.git
+ssh -T git@github.com
+cla
+cls
+lazygit
+git checkout main
+lazygit
+git pull origin main
+lazygit
+git merge master
+git merge master --allow-unrelated-histories
+\cls
+cls
+git merge main --allow-unrelated-histories
+cls
+lazygit
+git merge main --allow-unrelated-histories
+git status
+git add README.md
+lazygit
+git commit -m "Resolved conflict in README.md between main and master"
+lazygit
+cls
+git pull origin main
+cls
+nvim
+cls
+git status
+cls
+z weather
+cls
+deno task run
+lazygit
+cls
+deno task dev
+cls
+nvim
+cl
+cls
+..
+cd SkyCast/
+cls
+nvim
+..
+rm -rf SkyCast/
+cls
+pnpm dlx sv create SkyCast
+npm install -g pnpm@latest-10
+sudo npm install -g pnpm@latest-10
+cls
+pnpm dlx sv create SkyCast
+cls
+nvim README.md
+nvim
+mv README.md SkyCast/
+ls
+cd SkyCast/
+cls
+..
+cd SkyCast/
+cls
+nvim
+pnpm run dev
+..
+rm -rf SkyCast/
+ls
+pnpm dlx sv create SkyCast
+cd SkyCast/
+git init && git add -A && git commit -m "Initial commit"
+bash
+cls
+z skycast
+cls
+pnpm run dev
+cls
+w4m http://localhost:5173/
+w3m http://localhost:5173/
+cls
+pnpm run dev
+cls
+sudo dnf isntall lynx
+sudo dnf install lynx
+cls
+lynx http://localhost:5173/
+z weather
+z skycast
+cls
+cls
+lynx http://localhost:5173/
+cls
+pnpm run dev
+c;s
+cls
+vite --host 0.0.0.0
+cls
+sudo dnf install google-chrome-stable
+cls
+nvim
+cls
+btop
+cls
+z skycast
+cls
+git remote add origin git@github.com:SureshAmal/SkyCast.git<\n>git branch -M main<\n>git push -u origin main
+cls
+codelang
+cls
+nvim
+cls
+z weather
+echo .env
+bat .env
+lynx 10.9.150.45:8090
+cls
+pip install jupyter_lab
+pip install jupyter-lab
+pip install jupyterlab
+jupyter-lab
+cls
+z python
+codelang
+cls
+z python
+codelang
+cls
+codelang
+cd python/
+cls
+z intership/
+pip install pandas
+cls
+z python
+z intership/
+cls
+pip instll matplotlib
+pip install matplotlib
+cls
+z python
+z intership/
+cls
+yazi
+cls
+lynx
+sudo dnf install snapd
+sudo snap install snap-store
+sudo ln -s /var/lib/snapd/snap /snap
+flatpak install flathub info.febvre.Komikku
+sudo snap install snap-store
+cls
+cls
+sudo snap install snap-store
+cls
+sudo snap install snap-store
+snap list
+flatpak install flathub info.febvre.Komikku
+cls
+nvim
+flatpak install flathub com.icons8.Lunacy
+cls
+z intership/
+z python
+z intership/
+cls
+yazi
+cls
+nvim
+cls
+sudo dnf install pipes
+cls
+nslookup google.com
+dig www.instagram.com +short
+dig https://www.instagram.com/therajivmakhni/?hl=en
+dig https://www.instagram.com/therajivmakhni/?hl=en +short
+dig https://www.instagram.com/therajivmakhni/?hl=en<\n>
+dig https://www.instagram.com/therajivmakhni
+dig www.instagram.com/therajivmakhni
+pip install instagram-location-search
+$ npm i -g instatouch
+npm i -g instatouch
+sudo npm i -g instatouch
+cls
+instatouch --help
+cd Downloads/
+mkdir jay
+cd jay/
+instatouch user Jay__8598 -c 24 -d -m image
+instatouch user jay__8598 -c 24 -d -m image
+ls
+cd Jay__8598/
+ls
+..
+yazi
+cls
+instatouch user Jay__8598 -c 24 -d -m image
+instatouch user Jay__8598
+ls
+yazi
+cls
+rm -rf Jay__8598/
+rm -rf jay__8598/
+cls
+instatouch location Jay__8598
+yazi
+instatouch location Jay__8598
+instatouch location jay__8598
+ls
+instatouch user jay__8598 -c 20 -d -s
+ls
+yazi
+instatouch comments https://www.instagram.com/p/B3XPst_A98M/ -c 200 -t csv
+ls
+yazi
+cls
+pip install instaloader
+instaloader 
+instaloader --no-pictures --no-video-thumbnails --no-videos --metadata-json jay__8598
+yazi
+cls
+instaloader --no-pictures --no-video-thumbnails --no-videos --metadata-json jay__8598
+cls
+yazi
+cd jay__8598/
+nvim
+yazi
+cls
+instatouch user jay__8598
+yazi
+..
+instatouch user jay__8598 -c 20 -d -m images
+instatouch user jay__8598 -c 20 -d -m image
+ls
+yazi
+instatouch user jay__8598 -d -m image
+yazi
+instatouch user jay__8598 -d -m image
+yazi
+instatouch hashtag summer -c 50 -m video -t csv
+yazi
+cls
+sudo dnf install wireshark
+cls
+cd 
+cd Downloads/
+rm -rf jay/
+cls
+flatpak install flathub com.github.jeromerobert.pdfarranger
+cd Downloads/
+ls
+sudo dnf install ytdlp-gui-2.0.0-1.x86_64.rpm
+flatpak install flathub io.github.JakubMelka.Pdf4qt
+cls
+flatpak install flathub io.github.JakubMelka.Pdf4qt
+cls
+z hypr
+hyprctl reload
+nvim
+cls
+z weather
+..
+mkdir adsc
+cd adsc/
+npm install --legacy-peer-deps
+cls
+z hypr
+codelang
+..
+cd Backup/
+cd config/
+cd hypr/
+yazi
+cd .cache/ags/user/generated/hypr/
+ls
+nvim hyprlock.conf
+z hypr
+cd .cache/ags/user/generated/hypr/
+hyprctl devices
+cls
+nvim
+hyprlock
+z hypr
+nvim
+z hypr
+nvim
+z weather
+bat .env
+cls
+cd .cache/ags/user/generated/hypr/
+nvim hyprlock.conf
+z hypr
+nvim hyprlock.conf
+cls
+nvim
+history
+cls
+flatpak install flathub io.github.JakubMelka.Pdf4qt
+cls
+nvim
+cls
+lscpu
+cls
+lscpu
+lynx chatgpt.com
+cls
+w3m http://www.chatgpt.com
+w3m https://www.chatgpt.com
+cls
+lynx google.com
+cls
+nvim
+w3m https://www.chatgpt.com
+lynx https://www.chatgpt.com
+cls
+cls
+flatpak install flathub io.github.JakubMelka.Pdf4qt
+cls
+flatpak install flathub com.github.johnfactotum.Foliate
+cargo install neovide
+neovide
+touch /home/suresh/.config/neovide
+neovide
+z hypr
+codelang
+..
+cd Backup/config/hypr/
+ls
+nvim hyprland/keybinds.conf
+cls
+nvim hyprland/keybinds.conf
+cls
+pip install sklearn
+pip install scikit-learn
+cls
+nvim
+nvi
+cls
+nvim
+history
+z weather
+z adsc
+npm install --legacy-peer-deps
+ls
+cd my-website/
+cls
+npm install --legacy-peer-deps
+cls
+npm run dev
+cls
+npm run dev
+cls
+bash
+npm install --legacy-peer-deps
+npm run dev
+npm 0h
+npm -h
+npm run -v
+npm run -h
+npm run dev
+..
+rm -rf my-website/
+git clone git@github.com:adel-gu/my-website.git
+cd my-website/
+npm install --legacy-peer-deps
+cls
+codelang
+z backup
+cd config/hypr/
+cd .local/state/ags/
+ls
+cd user/
+ls
+..
+z hypr
+nvim .config/ags
+nvim
+swww query | head -1 | awk -F 'image: ' '{print $2}'
+cls
+swww query | head -1 | awk -F 'image: ' '{print $2}'
+sed 's/\//\\\\\//g' <<<"$wallpath_png"
+sed 's/\//\\\\\//g' <<<"/home/suresh/Pictures/wallpapers/Arcade_decay_red.png"
+nvim
+btop
+lscpu
+cl
+cls
+lscpu
+cls
+flatpak install flathub io.github.JakubMelka.Pdf4qt
+cls
+nvim
+python
+cls
+z mywebsite
+z weather
+..
+ls
+cd adsc/
+ls
+cd my-website/
+npm install --legacy-peer-deps
+npm run dev
+cls
+..
+rm -rf adsc/
+cls
+nvim
+cls
+codelang
+cd Rust/
+cls
+cargo new Iced_App
+cargo new iced_app
+ls
+rm -rf Iced_App/
+cd iced_app/
+cls
+ls
+cls
+btop
+cls
+codelang
+mkdir DesktopApps
+cd DesktopApps/
+mkdir TauriApp
+cd TauriApp/
+pnpm create tauri-app
+sudo dnf install webkit2gtk  rsvg2
+cls
+sudo dnf check-update<\n>sudo dnf install webkit2gtk4.1-devel \<\n>  openssl-devel \<\n>  curl \<\n>  wget \<\n>  file \<\n>  libappindicator-gtk3-devel \<\n>  librsvg2-devel<\n>sudo dnf group install "c-development"
+sudo dnf update
+cls
+codelang
+cd markdown/
+nvim jsnotes.md
+cls
+history | fzf
+sudo dnf remove r-quick-share
+cls
+z lamxp
+z lamxpp
+cls
+sudo dnf install webkit2gtk4.1-devel \<\n>  openssl-devel \<\n>  curl \<\n>  wget \<\n>  file \<\n>  libappindicator-gtk3-devel \<\n>  librsvg2-devel
+sudo dnf install webkit2gtk4.1-devel openssl-devel curl wget file libappindicator-gtk3-devel librsvg2-devel
+sudo dnf group install "c-development"
+codelang
+cls
+codelang
+cd DesktopApps/
+ls
+cd TauriApp/
+ls
+cd TimeLand/
+cls
+cl
+cls
+pnpm install
+codelang
+cd DesktopApps/
+cls
+cd TauriApp/
+cls
+cd TimeLand/
+cls
+btop
+cd Downloads/
+cd Warpinator/
+cls
+pnpm tauri dev
+cls
+nvim
+sudo dnf install blender
+cls
+codelang
+z tauri
+cls
+cd TimeLand/
+cls
+nvim
+codelang
+cd DesktopApps/
+mkdir my-electron-app && cd my-electron-app<\n>npm init
+mkdir my-electron-app
+cd my-electron-app/
+npm init
+npm install electron --save-dev
+cls
+ls
+bat package.json
+nvim package.json
+cls
+nvim
+cls
+nvim package.json
+nvim
+nvim package.json
+npm run start
+cls
+nvim 
+npm run start
+cls
+..
+ls
+z backup
+cls
+z hypr
+cd config/hypr/
+ls
+cd hyprland/
+ls
+hyprctl clients
+npx create-react-app electron-react-app
+cls
+ls
+rm -rf electron-react-app/
+ls
+cls
+btop
+cls
+hyprctl dispatch toggleopaque
+hyprctl keyword decoration:active_opacity 1.0
+hyprctl keyword decoration:inactive_opacity 1.0
+hyprctl decoration:*_opacity 1
+hyprctl decoration:opacity 1.0 override 1.0 override
+cls
+hyprctl decoration:opacity 1.0
+hyprctl keyword decoration:opacity 1.0
+hyprctl keyword decoration:*_opacity 1.0
+hyprctl ketword decoration:opacity 1.0 override 1.0 override
+cls
+hyprctl dispatch toggleopaque
+hyprctl --batch "keyword decoration:active_opacity 1.0; keyword decoration:inactive_opacity 1.0"
+cls
+hyprctl --batch "keyword decoration:active_opacity 97.0; keyword decoration:inactive_opacity 95.0"
+hyprctl --batch "keyword decoration:active_opacity 0.97; keyword decoration:inactive_opacity 0.95"
+hyprctl --batch "keyword decoration:active_opacity 0.95; keyword decoration:inactive_opacity 0.95"
+home
+z hypr
+ls
+cd hyprland/
+z hypr
+cd hyprland/
+chmod +x ./noopacityall.sh
+chmod +x ./lowopacityall.sh
+cls
+nvim toggleopacityall.sh
+nvim hyprland/rules.conf
+cls
+nvim
+cls
+nvim
+cls
+hyprshot
+cls
+z hypr
+cd hyprland/
+sudo npm i -g live-server
+cls
+codelang
+cd Web/
+cls
+ls
+alias | fzf
+bash
+c;s
+cls
+ls
+cd `Web Learning/`
+cls
+nvim
+mkdir Components
+cd Components/
+..
+cd webcomponents/
+ls
+z Component\
+z Component
+cls
+pnpm init
+ls
+cls
+nvim README.md
+cls
+mkdir AnimatedCircularProgressBar
+cd AnimatedCircularProgressBar/
+z Component
+cls
+nvim index.html index.css index.js
+cls
+z Component
+ls
+cd NotificationPopup/
+ls
+z weblearning
+z web
+..
+ls
+..
+ls
+cd Web `Web programming Sem4/`
+cd`Web programming Sem4/`
+cd `Web programming Sem4/`
+cls
+nvim index.html
+z desktop
+cls
+ls
+rm -rf my-electron-app/
+pnpm create @quick-start/electron
+cd Note-mark/
+pnpm i
+z desktop
+cd Note-mark/
+cls
+nvim
+cls
+pnpm dev
+cls
+ls
+nvim package.json
+pnpm electron-vite build
+cls
+bat package.json
+pnpm electron-vite preview
+cls
+nvim
+pnpm electron-vite preview
+nvim
+cls
+pnpm electron-vite preview
+cls
+pnpm electron-vite build
+cls
+ls
+cd build/
+ls
+..
+ls
+nvim
+z note-mark
+cls
+pnpm build:linux
+pnpm build:win
+cls
+sudo dnf install wine
+cls
+cd .config/kitty/
+nvim
+cls
+nvim kitty.conf
+nvim
+cls
+ls
+cls
+ls
+sls
+ls
+sls
+ls
+cls
+nvim
+cls
+cd .config/kitty/
+ks
+ls
+sls
+slsks
+sakas
+nvim
+cls
+ls
+nvim
+ls
+cls
+nvim kitty.conf
+cls
+nvim
+cls
+nvim
+cls
+sudo dnf install wine
+cls
+sudo dnf install wine
+cls
+sudo dnf install wine
+cls
+sudo dnf install wine
+cls
+cd .config/ags
+hyprctl clients
+nvim
+sudo dnf install go gtk3 gtk-layer-shell xdg-utils
+cls
+cd GitClones/
+git clone https://github.com/nwg-piotr/nwg-drawer.git
+cls
+ls
+cls
+sudo dnf install nwg-drawer
+nwg-drawer
+cls
+cd .config/hypr/
+z hypr
+c;s
+cls
+nvim hyprland/
+cls
+z ags
+cls
+z backup
+cls
+cd config/
+ls
+ags -q
+ags
+cls
+nvim
+cls
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+hyprpm update
+cls
+ff
+cls
+sudo dnf install wine
+cls
+ping google.com
+cls
+sudo dnf install wine
+cls
+z note-mark
+cls
+pnpm build:win
+cls
+z note-mark
+pnpm build:win
+ls
+cd build/
+la
+ls
+cls
+..
+cd dist/
+ls
+z desktop
+cls
+cd TauriApp/TimeLand/
+cls
+z desktop
+cd TauriApp/TimeLand/
+cls
+nvim
+cls
+nvim
+pnpm tauri dev
+cls
+ls
+bat package.json
+z timeland
+cls
+ls
+bat jsconfig.json
+pnpm vite build
+cls
+;s
+ls
+cd build/
+ls
+cd _app/
+ls
+..
+cls
+bat README.md
+cls
+cls
+sudo dnf in mingw64-nsis<\n>wget https://github.com/tauri-apps/binary-releases/releases/download/nsis-3/nsis-3.zip<\n>unzip nsis-3.zip<\n>sudo cp nsis-3.08/Stubs/* /usr/share/nsis/Stubs/<\n>sudo cp -r nsis-3.08/Plugins/** /usr/share/nsis/Plugins/
+sudo dnf install lld llvm
+rustup target add x86_64-pc-windows-msvc
+cargo install --locked cargo-xwin
+z desktop
+cd TauriApp/TimeLand/
+cls
+pnpm tauri build --runner cargo-xwin --target x86_64-pc-windows-msvc
+cls
+btop
+cls
+sudo btop
+cls
+z php
+ls
+z php
+php -S localhost:8000
+sudo php -S localhost:8000
+nvim
+cls
+z typst
+codelang
+cd `typst files/`
+cls
+z typst
+cls
+history
+cls
+codelang
+flatpak install flathub com.jeffser.Alpaca
+cls
+flatpak install flathub org.kde.elisa
+flatpak install flathub io.bassi.Amberol
+cls
+hyprpm update
+cls
+sudo dnf update hyprland
+cls
+sudo dnf update hyprland
+hyprpm update
+sudo dnf install aquamarine
+sudo dnf install aquamarine-devel udis86-devel udis86
+hyprpm update
+sudo dnf install hyprcursor-devel hyprlang-devel
+hyrpcursor
+hyprcursor
+sudo dnf install hyprcursor
+hyprpm update
+sudo dnf install hyprutils-devel
+hyprpm update
+sudo dnf install hyprgraphics-devel
+hyprpm update
+sudo dnf install uuid-devel wayland-protocols-devel wayland-protocols libinput-devel libinput re2 re2-devel
+sudo dnf install uuid wayland-protocols libinput-devel re2-devel
+sudo dnf install libuuid-devel wayland-protocols libinput-devel re2-devel
+cls
+sudo dnf install -y libuuid-devel wayland-protocols-devel libinput-devel re2-devel
+hyprpm update
+sudo dnf install -y <\n>  libinotify-devel <\n>  xcb-util-wm-devel <\n>  xcb-util-errors-devel
+sudo dnf install -y libinotify-devel xcb-util-wm-devel xcb-util-errors-devel
+sudo dnf install -y libinotify xcb-util-wm-devel xcb-util-errors-devel
+sudo dnf install -y xcb-util-wm-devel xcb-util-errors-devel
+sudo dnf install libnotify-devel
+cls
+hyprpm update
+sudo dnf install tomlplusplus-devel
+hyprpm update
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+hyprpm add https://github.com/KZDKM/Hyprspace
+hyprpm enable Hyprspace
+hyprpm list
+hyprpm add https://github.com/KZDKM/Hyprspace
+hyprpm reload
+hyprpm add https://github.com/KZDKM/Hyprspace
+hyprpm list
+cls
+cd .config/hypr/
+nvim hyprland/execs.conf
+hyprpm reload -n
+cls
+hyprpm list
+hyprpm reload
+hyprpm remove  Hyprspace
+hyprpm list
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+hyprpm add https://github.com/KZDKM/Hyprspace
+hyprpm add -v https://github.com/KZDKM/Hyprspace
+hyprpm add https://github.com/KZDKM/Hyprspace -v
+cls
+hyprpm list
+hyprpm remove  Hyprspace
+hyprpm list
+cls
+hyprpm add https://github.com/KZDKM/Hyprspace -v
+sudo dnf install libudev-devel
+hyprpm remove  Hyprspace
+hyprpm add https://github.com/KZDKM/Hyprspace -v
+cls
+hyprpm list
+hyprpm enable Hyprspace
+cls
+cd .config/hypr/
+z backup
+cd config/hypr/
+cd hyprland/
+bat keybinds.conf
+nvim keybinds.conf
+hyprpm reload
+hyprpm reload -n
+cls
+hyprpm list
+hyprpm disable Hyprspace
+hyprpm list
+cls
+hyprpm enable Hyprspace
+nvim hyprland/keybinds.conf
+hyprpm enable Hyprspace
+hyprctl reload
+cls
+cd .config/hypr/
+cls
+hyprspace -v
+hyprspace -h
+cls
+hyprpm hyprspace -v
+cls
+hyprctl reload
+cls
+hyprctl reload
+hyprpm hyprspace -v
+hyprpm hyprspace
+hyprpm list
+hyprpm disable Hyprspace
+cls
+hyprpm enable Hyprspace
+nvim hyprland/keybinds.conf
+hyprpm enable Hyprspace
+cls
+hyprctl reload
+cls
+cd .config/hypr/
+hyprpm enable Hyprspace
+cls
+hyprctl reload
+ff
+nf
+cls
+hyprctl dispatch overview:toggle
+hyprctl plugin list
+sudo dnf update hyprland
+hyprland -v
+cls
+nvim hyprland/keybinds.conf
+home
+cd GitClones/
+git clone https://github.com/KZDKM/Hyprspace.git
+cd Hyprspace/
+make all
+sudo dnf install hyprland-devel
+make all
+ls
+hyprpm remove  Hyprspace
+cls
+hyrpctl reload
+hyprctl reload
+cls
+ls
+hyprctl plugin load Hyprspace.so
+hyprctl plugin load ./Hyprspace.so
+sudo hyprctl plugin load Hyprspace.so
+hyprctl plugin list
+cls
+hyprctl plugin load ~/GitClones/Hyprspace/Hyprspace.so
+cls
+hyprctl plugin list
+cls
+z hypr
+nvim hyprland/keybinds.conf
+cls
+hyprctl dispatch overview:toggle
+z hypr
+sudo dnf remove hyprpm
+cls
+z hypr
+nvim hyprland/execs.conf
+cls
+z hypr
+nvim hyprland/general.conf
+z web
+..
+cd `Web programming Sem4/`
+ls
+cls
+ls
+cd `sem 4 web programming/`
+cls
+cks
+cls
+cd react/
+ls
+cd Pictures/
+cd Screenshots/
+yazi
+cls
+hyprshot -h
+hyprshot -m region
+yazi
+hyprshot -m region
+z hypr
+nvim hyprland/general.conf
+hyprctl dispatch plugin:overview:centerAligned
+hyprctl dispatch overview:centerAligned
+hyprctl dispatch plugin:overview:centerAligned
+history | fzf
+hyrpctl dispatch overview:toggle
+hyprctl dispatch overview:toggle
+hyprctl dispatch plugin:overview:disableBlur
+hyprctl dispatch overview:disableBlur
+hyprctl dispatch plugin:overview:onBottom
+hyprctl plugin:overview:onBottom
+hyprctl plugin:overview:onBottom true
+hyprctl plugin:overview:onBottom -v
+c,s
+cls
+nvim
+cls
+z weather
+cls
+deno task dev
+cls
+lazygit
+cls
+git pull origin main
+lazygit
+git pull origin main
+lazygit
+cls
+git pull origin main
+git config pull.rebase false
+git pull origin main
+deno task dev
+deno instal
+deno i
+z weather
+echo .env
+bat .env
+deno task dev
+nvim src/routes/+page.svelte
+cls
+nvim
+cls
+z web
+..
+cd `Web Learning/`
+cd Components/
+ls
+z componnent
+z component
+ls
+z weather
+cls
+..
+cls
+..
+home
+mkdir Mydotfiles
+cd M
+cd Mydotfiles/
+cls

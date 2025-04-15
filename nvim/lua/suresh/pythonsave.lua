@@ -1,0 +1,17 @@
+-- vim.api.nvim_create_augroup("CompileTypstOnSave", { clear = true })
+--
+-- vim.api.nvim_create_autocmd("BufWritePost", {
+--   group = "CompileTypstOnSave",
+--   pattern = "*.py",
+--   callback = function()
+--     local file_path = vim.fn.expand("%:t") -- Full path of the current buffer file
+--     print("python " .. file_path)
+--     vim.set.keymaps("n","<A-a>",vim.fn.system("python " .. file_path))
+--     if vim.v.shell_error ~= 0 then
+--       vim.notify("error occured")
+--     else
+--       vim.notify("Typst file compiled successfully: ", vim.log.levels.INFO)
+--     end
+--     vim.cmd("write")
+--   end,
+-- })

@@ -1,0 +1,27 @@
+[opener]
+play = [
+  { run = 'mpv --force-window "$@"', desc = "mpv", orphan = true, for = "unix" },
+  { run = 'vlc "$@"', desc = "vlc", orphan = true, for = "unix" },
+]
+pdff = [
+  { run = 'zathura "$@"', desc = "zathura", orphan = true, for = "unix" },
+  { run = 'okular "$@"', desc = "okular", orphan = true, for = "unix" },
+]
+htmll = [
+  { run = 'neovide "$@"', desc = "neovide", orphan = true, for = "unix" },
+  { run = 'google-chrome "$@"', desc = "google-chrome", orphan = true, for = "unix" },
+  { run = 'firefox "$@"', desc = "firefox", orphan = true, for = "unix" },
+  { run = 'flatpak run app.zen_browser.zen "$@"', desc = "zen", orphan = true, for = "unix" },
+]
+
+[open]
+prepend_rules = [
+  { name = "*.pdf", use = [
+    "pdff",
+    "reveal",
+  ] },
+  { name = "*.html", use = [
+    "htmll",
+    "reveal",
+  ] },
+]
